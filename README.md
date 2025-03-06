@@ -6,13 +6,13 @@
 - 👯 I'm looking to collaborate on open-source automation projects
 - 🤔 I'm passionate about streamlining processes with elegant automation solutions
 - 💼 Experienced in building robust DevOps pipelines and Linux infrastructure
-- 🏠 Founder of [Home Automation Thailand](https://www.facebook.com/groups/hathailand), a community for smart home enthusiasts
 - 👨‍💻 Software Development Skills Advisor and Consultant
+
+## 🚀 Quick Facts
+- 🏠 Founder of [Home Automation Thailand](https://www.facebook.com/groups/hathailand), a community for smart home enthusiasts
 - 🏢 Founder at [RACKSYNC CO., LTD.](https://racksync.com) - specializing in Automation and Smart Solutions
 - 💃 Founder at [Shell Dancer](https://dancer.sh) - Interactive shell tool for seamless port tunneling and reverse shells for Linux and MacOS
 - 📚 Founder at [EveryHA](https://everyha.com) - Install and configure Home Assistant with a single command project
-
-
 
 ## 🛠️ Skills & Technologies
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
