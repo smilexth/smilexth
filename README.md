@@ -10,9 +10,6 @@
 - 👨‍💻 Software Development Skills Advisor and Consultant
 - 🏢 Founder at [RackSync](https://github.com/racksync), specializing in Automation and Smart Solutions
 
-## 🏢 My Company - RackSync
-**RACKSYNC CO., LTD.** is a specialist in Automation and Smart Solutions of all sizes. We provide consulting services as well as system implementation, installation, and monitoring by experts. Additionally, we are a full-service Software As A Service development company.
-
 ## 🛠️ Skills & Technologies
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -33,16 +30,22 @@
 - **Software Development Consulting** - Advising teams on best practices and technology solutions
 - **Smart Home Software Development** - Creating custom solutions for connected home environments
 
-## 📊 GitHub Stats
+
+## 🏯 My Company
+**RACKSYNC CO., LTD.** is a specialist in Automation and Smart Solutions of all sizes. We provide consulting services as well as system implementation, installation, and monitoring by experts. Additionally, we are a full-service Software As A Service development company.
+
+
+## 📉 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smilexth&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
+- Email: [jack@racksync.com](mailto:jack@racksync.com)
+- LinkedIn: [smilex]](https://www.linkedin.com/in/smilex)
 - Personal GitHub: [@smilexth](https://github.com/smilexth)
 - Company GitHub: [racksync](https://github.com/racksync)
 - Official Company: [racksync](https://racksync.com)
-- Company Fanpage: [FB Page](https://www.facebook.com/racksync)
 - X: [@jackz](https://x.com/jackz)
-- Email: [jack@racksync.com](mailto:jack@racksync.com)
+- Company Fanpage: [FB Page](https://www.facebook.com/racksync)
 - Community: [Home Automation Thailand](https://www.facebook.com/groups/hathailand)
 
 <!-- Add more contact information as needed -->
