@@ -1,4 +1,4 @@
-# Hi there, I'm SmileX from Thailand 👋
+# Hi there, I'm SmileX from Thailand 🚀
 
 ## About Me
 - 🔭 I'm currently working on DevOps solutions and automation systems
@@ -8,9 +8,9 @@
 - 💼 Experienced in building robust DevOps pipelines and Linux infrastructure
 - 🏠 Founder of [Home Automation Thailand](https://www.facebook.com/groups/hathailand), a community for smart home enthusiasts
 - 👨‍💻 Software Development Skills Advisor and Consultant
-- 🏢 Founder at [RACKSYNC CO., LTD.](https://github.com/racksync), specializing in Automation and Smart Solutions
-- 🕺🏻 Founder at [Shell Dancer](https://dancer.sh), Interactive shell tool for seamless port tunneling and reverse shells for Linux and MacOS
-- 📚 Founder at [EveryHA](https://everyha.com), Install and configure Home Assistant with a single command project
+- 🏢 Founder at [RACKSYNC CO., LTD.](https://racksync.com) - specializing in Automation and Smart Solutions
+- 💃 Founder at [Shell Dancer](https://dancer.sh) - Interactive shell tool for seamless port tunneling and reverse shells for Linux and MacOS
+- 📚 Founder at [EveryHA](https://everyha.com) - Install and configure Home Assistant with a single command project
 
 
 
