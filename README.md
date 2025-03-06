@@ -6,6 +6,12 @@
 - 👯 I'm looking to collaborate on open-source automation projects
 - 🤔 I'm passionate about streamlining processes with elegant automation solutions
 - 💼 Experienced in building robust DevOps pipelines and Linux infrastructure
+- 🏠 Founder of [Home Automation Thailand](https://www.facebook.com/groups/hathailand), a community for smart home enthusiasts
+- 👨‍💻 Software Development Skills Advisor and Consultant
+- 🏢 Founder at [RackSync](https://github.com/racksync), specializing in Automation and Smart Solutions
+
+## 🏢 My Company - RackSync
+**RACKSYNC CO., LTD.** is a specialist in Automation and Smart Solutions of all sizes. We provide consulting services as well as system implementation, installation, and monitoring by experts. Additionally, we are a full-service Software As A Service development company.
 
 ## 🛠️ Skills & Technologies
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -24,13 +30,21 @@
 - **DevOps Engineering** - Building scalable CI/CD pipelines and infrastructure as code
 - **Automation** - Creating elegant solutions for repetitive tasks and complex workflows
 - **Home Automation** - Designing smart home systems with focus on reliability and security
+- **Software Development Consulting** - Advising teams on best practices and technology solutions
+- **Smart Home Software Development** - Creating custom solutions for connected home environments
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smilexth&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- GitHub: [@smilexth](https://github.com/smilexth)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Personal GitHub: [@smilexth](https://github.com/smilexth)
+- Company GitHub: [racksync](https://github.com/racksync)
+- Official Company: [racksync](https://racksync.com)
+- Company Fanpage: [FB Page](https://www.facebook.com/racksync)
+- X: [@jackz](https://x.com/jackz)
+- Email: [jack@racksync.com](mailto:jack@racksync.com)
+- Community: [Home Automation Thailand](https://www.facebook.com/groups/hathailand)
+
 <!-- Add more contact information as needed -->
 
 <!-- Optional: Add GitHub Trophies -->
