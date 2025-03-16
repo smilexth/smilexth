@@ -46,7 +46,7 @@
 
 ## 📫 How to reach me
 - Email: [jack@racksync.com](mailto:jack@racksync.com)
-- LinkedIn: [smilex]](https://www.linkedin.com/in/smilex)
+- LinkedIn: [smilex](https://www.linkedin.com/in/smilex)
 - Personal GitHub: [@smilexth](https://github.com/smilexth)
 - Company GitHub: [racksync](https://github.com/racksync)
 - Official Company: [racksync](https://racksync.com)
